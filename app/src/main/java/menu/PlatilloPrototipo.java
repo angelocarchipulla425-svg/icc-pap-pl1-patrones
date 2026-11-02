@@ -1,5 +1,5 @@
 package menu;
 
-public class PlatilloPrototipo {
-    
+public interface PlatilloPrototipo<T> {
+    T copiar(String nuegoId);
 }
