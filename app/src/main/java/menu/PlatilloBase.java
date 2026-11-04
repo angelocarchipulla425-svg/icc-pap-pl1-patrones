@@ -5,7 +5,7 @@ import modelo.Pedido;
 import java.math.BigDecimal;
 
 
-public abstract class PlatilloBase implements Pedido, PlatilloPrototipo<PlatilloBase> {
+public abstract class PlatilloBase implements Pedido, PlatilloClonable<PlatilloBase> {
     protected String id;
     protected String nombre;
     protected BigDecimal precioBase;
