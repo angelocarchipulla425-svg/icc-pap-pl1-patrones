@@ -6,7 +6,8 @@ Interfaz pedida a Stitch para que sea más sencilla e intuitiva
 
 # Evidencias APP1 — PedidoLab
 
-**Repositorio:** [Tu enlace de GitHub aquí]  
+**Repositorio:** https://github.com/angelocarchipulla425-svg/icc-pap-pl1-patrones/blob/main/app/src/main/java/readme/evidencias.md
+
 **Estudiante:** Angelo Miguel Carchipulla Pulla  
 **Fecha:** 2026-11-08
 
