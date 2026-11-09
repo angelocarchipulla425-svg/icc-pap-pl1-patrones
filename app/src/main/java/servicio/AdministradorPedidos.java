@@ -52,7 +52,7 @@ public class AdministradorPedidos {
             throw new IllegalStateException("Debe seleccionar un pedido de la lista.");
         }
         if (!esCompatible(pedidoActual.tipo(), nombreIngrediente)){
-            throw new IllegalArgumentException("Ingrediente incompatible (" + nombreIngrediente + ")" +
+            throw new IllegalArgumentException("Ingrediente incompatible (" + nombreIngrediente + ") " +
                 "para el producto: " + pedidoActual.tipo()
             );
         }
@@ -65,7 +65,7 @@ public class AdministradorPedidos {
         } else if (ingLower.equals("crema")){
             pedidoDecorado = new Crema(pedidoActual);
         } else if (ingLower.equals("tomate")){
-            pedidoDecorado = new Tomate(pedidoActual);
+            pedidoDecorado = new Pollo(pedidoActual);
         } else if (ingLower.equals("pollo")){
             pedidoDecorado = new Tomate(pedidoActual);
         } else if (ingLower.equals("queso")){

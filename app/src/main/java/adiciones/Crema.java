@@ -5,8 +5,6 @@ import java.math.BigDecimal;
 
 public class Crema extends IngredienteAdicional{
     public Crema(Pedido pedidoEnvuelto) {
-        super(pedidoEnvuelto,
-             "Crema",
-              new BigDecimal("1.20"));
+        super(pedidoEnvuelto, "Crema", new BigDecimal("1.20"));
     }
 }
