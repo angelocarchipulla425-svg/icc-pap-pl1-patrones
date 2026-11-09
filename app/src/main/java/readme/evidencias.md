@@ -9,7 +9,7 @@ Interfaz pedida a Stitch para que sea más sencilla e intuitiva
 **Repositorio:** https://github.com/angelocarchipulla425-svg/icc-pap-pl1-patrones/blob/main/app/src/main/java/readme/evidencias.md
 
 **Estudiante:** Angelo Miguel Carchipulla Pulla  
-**Fecha:** 2026-11-08
+**Fecha:** Domingo 8 de Noviembre del 2026
 
 | Caso | Entrada | Resultado esperado | Resultado real | Evidencia | Estado |
 |---|---|---|---|---|---|
